@@ -1,0 +1,31 @@
+{
+  "name": "hover-tooltips-liquid",
+  "version": "0.6.0",
+  "description": "Show liquid-types for identifiers in Haskell source",
+  "main": "lib/hover-tooltips-liquid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranjitjhala/hover-tooltips-liquid"
+  },
+  "keywords": [
+    "atom",
+    "tooltips",
+    "haskell",
+    "ide",
+    "liquidhaskell",
+    "refinement",
+    "types"
+  ],
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "hover-tooltips": ">=0.3.0"
+  },
+  "author": "Ranjit Jhala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranjitjhala/hover-tooltips-liquid/issues"
+  },
+  "homepage": "https://github.com/ranjitjhala/hover-tooltips-liquid"
+}
