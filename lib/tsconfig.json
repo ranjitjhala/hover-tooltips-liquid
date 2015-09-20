@@ -15,7 +15,7 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./hover-tooltips-hdevtools.ts",
+        "./hover-tooltips-liquid.ts",
         "./hover-tooltips.d.ts"
     ]
 }
