@@ -16,6 +16,7 @@
     ],
     "files": [
         "./hover-tooltips-liquid.ts",
-        "./hover-tooltips.d.ts"
+        "./hover-tooltips.d.ts",
+        "./liquid-utils.d.ts"
     ]
 }

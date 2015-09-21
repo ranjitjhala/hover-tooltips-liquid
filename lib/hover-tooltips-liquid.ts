@@ -1,7 +1,7 @@
 /// <reference path="../typings/tsd.d.ts" />
 
-import {Annotations, debugLiquidUtils}  from './liquid-utils'
-import {HoverTooltips, provider, debug} from './hover-tooltips';
+import {Annotations, debugLiquidUtils}  from 'liquid-utils'
+import {HoverTooltips, provider, debug} from 'hover-tooltips';
 
 var annProvider = new Annotations('liquid', [], '.liquid');
 
