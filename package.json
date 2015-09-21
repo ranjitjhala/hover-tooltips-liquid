@@ -1,6 +1,6 @@
 {
   "name": "hover-tooltips-liquid",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Show liquid-types for identifiers in Haskell source",
   "main": "lib/hover-tooltips-liquid",
   "repository": {
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "hover-tooltips": ">=0.3.0",
-    "liquid-utils"  : "*"
+    "liquid-utils": "*"
   },
   "author": "Ranjit Jhala",
   "license": "MIT",
